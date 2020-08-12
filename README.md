@@ -15,6 +15,7 @@ _this is also italic_
 *you **can** do it*
 
 <h1> My name is Gayathri</h1>
+
 * HTML5
 
 * CSS
@@ -29,6 +30,6 @@ _this is also italic_
     
     2. CSS3
     
-   ![alt text](amazon.jpg)
+   ![alt text](pawan.jpg)
    
 ![Google] (http://www.google)
